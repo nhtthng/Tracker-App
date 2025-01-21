@@ -29,6 +29,8 @@ class ExpenseItem extends StatelessWidget {
             )
           ],
         ),
-      ),);
+      ),
+      
+      );
   }
 }
